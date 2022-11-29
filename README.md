@@ -14,8 +14,7 @@
 ---
 
 ### :man_technologist: About Me :
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=500&color=51A0F7&width=435&lines=I+am+a+Mobile+Developer.;+Started+with+Xamarin;Now+mostly+I+am+developing+with+Flutter;I+really+love+coding)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=51A0F7&width=435&lines=I+am+a+Mobile+Developer.;+Started+with+Xamarin;Now+mostly+I+am+developing+with+Flutter;I+really+love+coding)](https://git.io/typing-svg)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
