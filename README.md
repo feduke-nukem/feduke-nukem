@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=500&size=18&duration=2500&pause=500&color=5DA1F7&center=true&vCenter=true&width=435&lines=Cross-platform+mobile+app+developer;+Started+with+Xamarin;Now+mostly+I+am+developing+with+Flutter;I+really+love+coding" alt="Typing SVG" /></a>
 </p>
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -11,6 +10,8 @@
       <a><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> 
       <a><img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/Dart-blue.svg?logo=dart&logoColor=white"></a>
       <a><img alt="Kotlin" src="https://custom-icon-badges.demolab.com/badge/Kotlin-purple.svg?logo=kotlin&logoColor=white"></a>
+      <a><img alt="Xaml" src="https://custom-icon-badges.demolab.com/badge/Xaml-68217A.svg?logo=xaml&logoColor=white"></a>
+      <a><img alt="Xaml" src="https://custom-icon-badges.demolab.com/badge/Xml-blue.svg?logo=xml&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -36,19 +37,15 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
   </p>
-</details>
 
-<details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=feduke-nukem&theme=tokyonight_duo&background=000000&hide_border=true&fire=ff751a"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Feduke Nukem's streak" src="http://github-readme-streak-stats.herokuapp.com?user=feduke-nukem&theme=tokyonight_duo&background=000000&hide_border=true&fire=ff751a"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -63,12 +60,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Feduke Nukems's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=feduke-nukem&bg_color=000000&&hide_border=true&theme=tokyo-night&custom_title=Feduke+Nukem's+Contribution+Graph" /></a>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
-
-</details>
 
 ### :fire: My projects :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feduke-nukem&&repo=flutter_easy_dialogs&show_owner=true&theme=tokyonight&hide_border=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
