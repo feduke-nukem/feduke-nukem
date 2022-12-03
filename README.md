@@ -7,20 +7,20 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <a><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> 
-      <a><img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/Dart-blue.svg?logo=dart&logoColor=white"></a>
-      <a><img alt="Kotlin" src="https://custom-icon-badges.demolab.com/badge/Kotlin-purple.svg?logo=kotlin&logoColor=white"></a>
-      <a><img alt="Xaml" src="https://custom-icon-badges.demolab.com/badge/Xaml-68217A.svg?logo=xaml&logoColor=white"></a>
-      <a><img alt="Xaml" src="https://custom-icon-badges.demolab.com/badge/Xml-blue.svg?logo=xml&logoColor=white"></a>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> 
+      <a href="https://dart.dev/"><img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/Dart-blue.svg?logo=dart&logoColor=white"></a>
+      <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://custom-icon-badges.demolab.com/badge/Kotlin-purple.svg?logo=kotlin&logoColor=white"></a>
+      <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0"><img alt="Xaml" src="https://custom-icon-badges.demolab.com/badge/Xaml-68217A.svg?logo=xaml&logoColor=white"></a>
+      <a href="https://en.wikipedia.org/wiki/XML"><img alt="Xml" src="https://custom-icon-badges.demolab.com/badge/Xml-blue.svg?logo=xml&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-      <a><img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/Flutter-blue.svg?logo=flutter&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="Xamarin (.Net)" src="https://img.shields.io/badge/Xamarin-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="https://m3.material.io/"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+      <a href="https://flutter.dev/"><img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/Flutter-blue.svg?logo=flutter&logoColor=white"></a>
+      <a href="https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2022"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="https://dotnet.microsoft.com/en-us/apps/xamarin"><img alt="Xamarin (.Net)" src="https://img.shields.io/badge/Xamarin-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
