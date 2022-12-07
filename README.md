@@ -58,7 +58,7 @@
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Feduke Nukems's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=feduke-nukem&bg_color=000000&&hide_border=true&theme=tokyo-night&custom_title=Feduke+Nukem's+Contribution+Graph" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Feduke Nukems's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=feduke-nukem&bg_color=000000&&hide_border=true&theme=tokyo-night&custom_title=Feduke+Nukem's+Contribution+Graph" /></a>
 
 
 
