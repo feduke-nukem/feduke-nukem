@@ -52,8 +52,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Feduke Nukems's Github Stats" src="https://github-readme-stats.vercel.app/api?username=feduke-nukem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&custom_title=Feduke+Nukem's+Github+stats&langs_count=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feduke-nukem&hide=javascript,css,scss,html,cmake,objective-c,c&theme=tokyonight&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Feduke Nukems's Github Stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=feduke-nukem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&custom_title=Feduke+Nukem's+Github+stats&langs_count=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=feduke-nukem&hide=javascript,css,scss,html,cmake,objective-c,c&theme=tokyonight&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a>
   <br/>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -63,7 +63,7 @@
 
 
 ### :fire: My projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feduke-nukem&&repo=flutter_easy_dialogs&show_owner=true&theme=tokyonight&hide_border=true&bg_color=000000)](https://github.com/feduke-nukem/flutter_easy_dialogs)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=feduke-nukem&&repo=flutter_easy_dialogs&show_owner=true&theme=tokyonight&hide_border=true&bg_color=000000)](https://github.com/feduke-nukem/flutter_easy_dialogs)
 ---
 <p align="center">
   <a href="https://github.com/feduke-nukem?tab=followers">
