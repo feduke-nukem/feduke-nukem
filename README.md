@@ -59,17 +59,3 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Feduke Nukems's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=feduke-nukem&bg_color=000000&&hide_border=true&theme=tokyo-night&custom_title=Feduke+Nukem's+Contribution+Graph" /></a>
-
-
-
-### :fire: My projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feduke-nukem&&repo=flutter_easy_dialogs&show_owner=true&theme=tokyonight&hide_border=true&bg_color=000000)](https://github.com/feduke-nukem/flutter_easy_dialogs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feduke-nukem&repo=animated_glitch&show_owner=true&theme=tokyonight&hide_border=true&bg_color=000000)](https://github.com/feduke-nukem/animated_glitch)
----
-<p align="center">
-  <a href="https://github.com/feduke-nukem?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/feduke-nukem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a>
-  <img src="https://komarev.com/ghpvc/?username=feduke-nukem&style=flat-square&color=blue" alt=""/>
-  </a>
-</p>
